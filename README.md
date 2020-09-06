@@ -1,5 +1,5 @@
 # Learning-Interations
-###practicing Js iterations(loop statements) with JSDom
+### Practicing Js iterations(loop statements) with JSDom
 ---
 Languages used
 ---
